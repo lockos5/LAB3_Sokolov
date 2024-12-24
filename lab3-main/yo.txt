@@ -1,0 +1,44 @@
+==PIPES==
+Pipe id: 0
+Your pipe's name: yes
+Your pipe's length: 400
+Your pipe's diameter: 500
+Is your pipe in repair: 1
+
+Pipe id: 1
+Your pipe's name: no
+Your pipe's length: 400
+Your pipe's diameter: 500
+Is your pipe in repair: 0
+
+Pipe id: 2
+Your pipe's name: nah
+Your pipe's length: 700
+Your pipe's diameter: 700
+Is your pipe in repair: 0
+
+Pipe id: 3
+Your pipe's name: gg
+Your pipe's length: 400
+Your pipe's diameter: 1400
+Is your pipe in repair: 0
+
+==CSS==
+Cs id: 0
+Your cs's name: pr
+Your cs's number of factories: 3
+Your cs's number of working factories: 2
+Your cs's efficiency: 18
+
+Cs id: 1
+Your cs's name: asf
+Your cs's number of factories: 321
+Your cs's number of working factories: 11
+Your cs's efficiency: 99
+
+Cs id: 2
+Your cs's name: xzffs
+Your cs's number of factories: 12412
+Your cs's number of working factories: 2321
+Your cs's efficiency: 0
+

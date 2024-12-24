@@ -1,0 +1,9 @@
+﻿  lab3.cpp
+C:\Users\nikSo\OneDrive\Desktop\lab3-main\lab3.cpp(1,2): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+  (компиляция исходного файла "lab3.cpp")
+  
+C:\Users\nikSo\OneDrive\Desktop\lab3-main\lab3.cpp(1,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concepts(12): warning STL4038: The contents of <concepts> are available only with C++20 or later.
+C:\Users\nikSo\OneDrive\Desktop\lab3-main\lab3.cpp(574,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikSo\OneDrive\Desktop\lab3-main\lab3.cpp(717,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных

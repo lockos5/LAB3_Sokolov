@@ -1,0 +1,26 @@
+==PIPES==
+Pipe id: 0
+Your pipe's name: yes
+Your pipe's length: 400
+Your pipe's diameter: 500
+Is your pipe in repair: 1
+
+Pipe id: 1
+Your pipe's name: no
+Your pipe's length: 400
+Your pipe's diameter: 500
+Is your pipe in repair: 0
+
+Pipe id: 2
+Your pipe's name: nah
+Your pipe's length: 700
+Your pipe's diameter: 700
+Is your pipe in repair: 0
+
+Pipe id: 3
+Your pipe's name: gg
+Your pipe's length: 400
+Your pipe's diameter: 1400
+Is your pipe in repair: 0
+
+You haven't created a cs yet
